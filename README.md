@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🐍 Python Bootcamp
+# 🐍 
+<p align="center">
+  <img src="https://media.giphy.com/media/v4NCChJtoH076/giphy.gif" width="350" alt="Python Snake">
+</p>
+Python Bootcamp
 <p align="center">
   <img src="https://media.tenor.com/DimzPZMypFcAAAAi/snake-python.gif" width="250"/>
 </p>
