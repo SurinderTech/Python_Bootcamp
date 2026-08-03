@@ -153,7 +153,7 @@ Future:
 Python Fundamentals      ███░░░░░░░ 30%
 Problem Solving          ██░░░░░░░░ 20%
 Object Oriented Python   ░░░░░░░░░░ 0%
-Projects                 ░░░░░░░░░░ 0%
+Projects                 ░░░░░░░░░░ 30%
 AI Development           ░░░░░░░░░░ 0%
 ```
 
