@@ -27,7 +27,7 @@ This repository documents my complete Python learning journey, from the fundamen
 
 ---
 
-# 📖 About
+#  About
 
 This repository is my personal Python Bootcamp where I learn and practice Python every day.
 
