@@ -10,7 +10,7 @@ Python Bootcamp
 </p>
 ### From Python Basics → Advanced Python → Real-World Projects → AI Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Learning+Python+Every+Day;Building+Real+Projects;Preparing+for+AI+%26+Backend+Development;One+Commit+at+a+Time+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Learning+Python+Every+Day;Building+Real+Projects;Preparing+for+AI+%26+Backend+Development;One+Commit+at+a+Time+" />
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Learning-success?style=for-the-badge)
