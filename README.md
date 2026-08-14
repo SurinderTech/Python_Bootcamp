@@ -8,7 +8,7 @@ Python Bootcamp
 <p align="center">
   <img src="https://media.tenor.com/DimzPZMypFcAAAAi/snake-python.gif" width="250"/>
 </p>
-### From Python Basics → Advanced Python → Real-World Projects → AI Development
+ From Python Basics → Advanced Python → Real-World Projects → AI Development
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Learning+Python+Every+Day;Building+Real+Projects;Preparing+for+AI+%26+Backend+Development;One+Commit+at+a+Time+" />
 
