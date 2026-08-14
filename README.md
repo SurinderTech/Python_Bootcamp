@@ -169,7 +169,7 @@ print(f"Learning {name} every day ")
 
 ---
 
-# 🚀 Why This Repository?
+#  Why This Repository?
 
 This repository helps me:
 
