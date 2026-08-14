@@ -217,6 +217,5 @@ If you find this repository useful:
 
 **Happy Coding! 🐍**
 
-Made with ❤️ and Python
 
 </div>
