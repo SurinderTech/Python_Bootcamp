@@ -164,7 +164,7 @@ AI Development           ░░░░░░░░░░ 0%
 ```python
 name = "Python"
 
-print(f"Learning {name} every day 🚀")
+print(f"Learning {name} every day ")
 ```
 
 ---
