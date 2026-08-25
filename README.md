@@ -105,7 +105,7 @@ Python_Bootcamp/
 | Day 13 | Exception Handling | ⏳ |
 | Day 14 | OOP | ⏳ |
 | Day 15 | Advanced Python | ⏳ |
-| Day 16+ | Projects | 🚀 |
+| Day 16+ | Projects |  |
 
 ---
 
